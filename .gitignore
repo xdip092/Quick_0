@@ -1,0 +1,21 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+.kotlin/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Node
+backend/node_modules/
+
+# Firebase / local runtime
+.firebase/
+backend/.env
+
+# OS
+Thumbs.db
+desktop.ini
