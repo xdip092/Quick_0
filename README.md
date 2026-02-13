@@ -75,6 +75,7 @@ Backend starter is included at `backend/`:
 - `backend/README.md`
 
 ## Full Documentation
+- `docs/INDEX.md`
 - `docs/APP_DOCUMENTATION.md`
 - `docs/DATABASE_DOCUMENTATION.md`
 - `docs/BACKEND_AND_DEPLOYMENT.md`
